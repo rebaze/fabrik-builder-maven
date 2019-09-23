@@ -5,6 +5,7 @@
   
   <pluginGroups>
         <pluginGroup>io.fabric8</pluginGroup>
+        <pluginGroup>com.google.cloud.tools</pluginGroup>
   </pluginGroups>
 
   <mirrors>
